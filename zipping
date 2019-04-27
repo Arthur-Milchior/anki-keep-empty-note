@@ -1,0 +1,2 @@
+rm keepEmptyNote.zip
+zip keepEmptyNote.zip config.* *py  LICENSE *.md zipping --exclude \*~ \*zip
